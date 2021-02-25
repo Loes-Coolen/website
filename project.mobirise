@@ -1,17 +1,17 @@
 {
   "settings": {
     "name": "Loes Coolen Website",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#0f7699",
-        "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
-        "infoColor": "#82786E",
-        "warningColor": "#879A9F",
-        "dangerColor": "#B1A374",
+        "secondaryColor": "#073b4c",
+        "successColor": "#073b4c",
+        "infoColor": "#073b4c",
+        "warningColor": "#073b4c",
+        "dangerColor": "#073b4c",
         "mainFont": "Rubik",
         "display1Font": "Noto Sans",
         "display1Size": 4.25,
@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-11-24-at-13.09.07-1.jpeg",
+    "favicon": "@PROJECT_PATH@/assets/images/de-goeie-img-2992-26-11-bewerkt-1.jpg",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -61,7 +61,8 @@
     "uniqCompNum": 14,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "wfhligc2cg"
   },
   "pages": {
     "index.html": {
